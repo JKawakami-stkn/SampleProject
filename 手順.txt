@@ -1,0 +1,9 @@
+﻿参考：https://qiita.com/zaburo/items/bc448a9fbf2d35194302
+
+.gitignoreではじかれるもの
+
+.env		→　①.env.exampleをコピー
+		　　②[php artisan key:generate]でappkeyを生成する
+		　　③DB_DATABASEとDB_PASSWORDを自分の環境に合わせて変更
+
+/vendor		→　プロジェクトフォルダ直下で[composer install]
