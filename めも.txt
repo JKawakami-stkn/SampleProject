@@ -7,3 +7,6 @@ TODO
 
 gitアカウントを変更
 https://qiita.com/shuhey/items/42223d487565595570c8
+
+リポジトリ運用について
+https://qiita.com/gold-kou/items/7f6a3b46e2781b0dd4a0
