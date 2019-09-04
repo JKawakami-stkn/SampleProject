@@ -9,6 +9,9 @@
 
 /vendor		→　プロジェクトフォルダ直下で[composer install]
 
+gitの管理方法
+
 
 ○一人がやること
 app,database,public,resources,routesを削除し、更新箇所を置き換え
+
