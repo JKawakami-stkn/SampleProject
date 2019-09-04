@@ -4,3 +4,6 @@ install
 
 TODO
 -xampp/htdocsの清掃
+
+gitアカウント変更
+https://qiita.com/shuhey/items/42223d487565595570c8
